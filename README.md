@@ -13,10 +13,10 @@ Matplotlib & Seaborn: For data visualization
 
 
 ## Files Included
-exploratory_data_analysis.ipynb: This is the main notebook file containing the code for the analysis.
-roller_coasters.csv: This is the data file containing the roller coaster data.
+1. eda_project.ipynb: This is the main notebook file containing the code for the analysis.
+2. coater_db : This is the data file containing the roller coaster data.
 
-Analysis Overview
+## Analysis Overview
 The analysis will follow the typical EDA process, which includes the following steps:
 
 Data Cleaning: We will clean the data by removing any duplicates, handling missing values, and converting data types as needed.
