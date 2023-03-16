@@ -7,9 +7,9 @@ The data for this project was obtained from CoasterForce and can be found in the
 ## Libraries Used
 We used the following Python libraries for data manipulation, analysis, and visualization:
 
-Pandas: For data manipulation and analysis
-Numpy: For numerical operations and calculations
-Matplotlib & Seaborn: For data visualization
+1. Pandas: For data manipulation and analysis
+2. Numpy: For numerical operations and calculations
+3. Matplotlib & Seaborn: For data visualization
 
 
 ## Files Included
